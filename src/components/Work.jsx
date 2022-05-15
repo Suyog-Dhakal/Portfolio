@@ -47,7 +47,7 @@ const Work = () => {
             {/* Hover effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-while tracking-wider">
-                bst visualizer C++ application
+                BST visualizer C++ application
               </span>
               <div className="pt-8 text-center">
                 <a href="https://github.com/Suyog-Dhakal/BST-visualizer">
@@ -66,7 +66,7 @@ const Work = () => {
             {/* Hover effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-while tracking-wider">
-                sorting visualizer C++ application
+                Sorting Visualizer C++ application
               </span>
               <div className="pt-8 text-center">
                 <a href="https://github.com/Suyog-Dhakal/Sorting-Visualizer">
@@ -123,7 +123,7 @@ const Work = () => {
             {/* Hover effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-while tracking-wider">
-                Eqn Recognizer using CNN
+                Equation Recognizer using CNN
               </span>
               <div className="pt-8 text-center">
                 <a href="https://github.com/necimye/EqnRecognizer">
