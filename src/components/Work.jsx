@@ -5,6 +5,8 @@ import sorting from "../assets/sorting.png";
 import graphPlotter from "../assets/graphPlotter.jpg";
 import routine from "../assets/routine.jpg";
 import eqnRecognizer from "../assets/eqnRecognizer.jpg";
+import facultyPublication from "../assets/facultyPublicationManagementSystem.png";
+import datascience from "../assets/datascience.png";
 
 const Work = () => {
   return (
@@ -22,16 +24,19 @@ const Work = () => {
           {/* card container */}
 
           <div
-            style={{ backgroundImage: `url(${ww3game})` }}
+            style={{ backgroundImage: `url(${datascience})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div "
           >
             {/* Hover effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-while tracking-wider">
-                WW3 Game C++ application
+                repository of my DataScience projects
               </span>
               <div className="pt-8 text-center">
-                <a href="https://github.com/Suyog-Dhakal/world-war-3-game">
+                <a
+                  href="https://github.com/Suyog-Dhakal/DataScience-Projects"
+                  target="/"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -50,7 +55,10 @@ const Work = () => {
                 BST visualizer C++ application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://github.com/Suyog-Dhakal/BST-visualizer">
+                <a
+                  href="https://github.com/Suyog-Dhakal/BST-visualizer"
+                  target="/"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -69,7 +77,10 @@ const Work = () => {
                 Sorting Visualizer C++ application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://github.com/Suyog-Dhakal/Sorting-Visualizer">
+                <a
+                  href="https://github.com/Suyog-Dhakal/Sorting-Visualizer"
+                  target="/"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -88,7 +99,10 @@ const Work = () => {
                 3D Graph Plotter JavaScript application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://github.com/Suyog-Dhakal/3D-GraphPlotter">
+                <a
+                  href="https://github.com/Suyog-Dhakal/3D-GraphPlotter"
+                  target="/"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -98,16 +112,19 @@ const Work = () => {
           </div>
 
           <div
-            style={{ backgroundImage: `url(${routine})` }}
+            style={{ backgroundImage: `url(${facultyPublication})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div "
           >
             {/* Hover effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-while tracking-wider">
-                Routine Management Reactjs application
+                Faculty Publication Management System - Major Project
               </span>
               <div className="pt-8 text-center">
-                <a href="https://github.com/Suyog-Dhakal/BERoutineManagement-FrontEnd">
+                <a
+                  href="https://github.com/Suyog-Dhakal/FacultyPublicationMS"
+                  target="/"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -123,10 +140,13 @@ const Work = () => {
             {/* Hover effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-while tracking-wider">
-                Equation Recognizer using CNN
+                Equation Recognizer using CNN -Minor Project
               </span>
               <div className="pt-8 text-center">
-                <a href="https://github.com/necimye/EqnRecognizer">
+                <a
+                  href="https://github.com/Suyog-Dhakal/HandwrittenEquationRecognizer"
+                  target="/"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
