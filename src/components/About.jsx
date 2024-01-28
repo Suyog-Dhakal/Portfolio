@@ -17,8 +17,10 @@ const About = () => {
             <p>Hi. I'm Suyog, nice to meet you. Please take a look around </p>
           </div>
           <div>
-            I am into data science field. I am keen to learn and collaborate
-            with people having similar interest like me.
+            I am into Data Science and Machine Learning field. Currently I am
+            working as a Research Assistant in one of the mental health
+            organization. I am keen to learn and collaborate with people having
+            similar interest like me.
           </div>
         </div>
       </div>

@@ -16,7 +16,7 @@ const Work = () => {
           <p className="text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600">
             Work
           </p>
-          <p className="py-6">Check out some of my Semester work</p>
+          <p className="py-6">Check out some of my projects</p>
         </div>
 
         {/* grid container */}
@@ -30,7 +30,7 @@ const Work = () => {
             {/* Hover effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-while tracking-wider">
-                repository of my DataScience projects
+                Repository of my DataScience projects
               </span>
               <div className="pt-8 text-center">
                 <a
